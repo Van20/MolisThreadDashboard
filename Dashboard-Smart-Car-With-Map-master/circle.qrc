@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>fuel.png</file>
+    <file>tesla.png</file>
+    <file>cloudy.png</file>
+  </qresource>
+</RCC>
