@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="newPrefix">
-    <file>cloudy.png</file>
-    <file>tesla.png</file>
-    <file>charging-station.png</file>
-  </qresource>
-</RCC>
